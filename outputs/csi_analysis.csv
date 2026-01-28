@@ -1,0 +1,20 @@
+feature,type,csi,interpretation,is_significant,expected_mean,actual_mean,mean_shift_pct
+debt_to_income,numeric,0.07145467331087196,No significant change,False,17.088208299268018,19.83640183858232,16.082397236648973
+num_inquiries_6m,numeric,0.048917750232572,No significant change,False,1.4957,1.7875,19.50925987831785
+months_since_delinquency,numeric,0.007379262760888623,No significant change,False,23.799041269378538,23.07551930080969,-3.0401307362737287
+credit_utilization,numeric,0.0021914906028923107,No significant change,False,39.910363310904245,40.59953017921744,1.7267867569747253
+interest_rate,numeric,0.0017044707928040577,No significant change,False,14.523663000278162,14.508049933252437,-0.1075008902742131
+months_employed,numeric,0.001115930852760642,No significant change,False,59.2965043761633,57.93810796560842,-2.29085411500403
+loan_amount,numeric,0.0010245645881088868,No significant change,False,28491.909218433208,28387.34546893456,-0.36699453412198435
+num_credit_lines,numeric,0.000801021578338084,No significant change,False,8.0325,8.0375,0.062247121070638095
+grade,categorical,0.0007226842643186995,No significant change,False,,,
+revolving_balance,numeric,0.0006830583125394914,No significant change,False,19882.60450019789,19816.565109800587,-0.3321465776611131
+loan_purpose,categorical,0.0004967427100035979,No significant change,False,,,
+annual_income,numeric,0.00047216326035454424,No significant change,False,67496.32472520595,67248.64314780408,-0.36695565041540895
+total_credit_limit,numeric,0.0003515556048896058,No significant change,False,49561.760300480964,49430.569229284665,-0.26470220266778144
+employment_status,categorical,0.00024370498864845073,No significant change,False,,,
+home_ownership,categorical,0.0001553034800176032,No significant change,False,,,
+installment_amount,numeric,0.00011702980484666397,No significant change,False,863.2289856558037,858.5500275069835,-0.542029777332557
+verification_status,categorical,2.5187428627745948e-05,No significant change,False,,,
+num_delinquencies,numeric,2.064889592333646e-05,No significant change,False,0.3685,0.362,-1.7639077340569895
+loan_term,numeric,3.4122878372929075e-06,No significant change,False,45.2928,45.3144,0.04768969902500927
