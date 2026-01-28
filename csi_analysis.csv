@@ -1,0 +1,9 @@
+feature,type,csi,interpretation,is_significant,mean_shift_pct
+debt_to_income,numeric,0.1823,Moderate change,True,12.4
+credit_utilization,numeric,0.1456,Moderate change,True,8.7
+num_inquiries_6m,numeric,0.1234,Moderate change,True,15.2
+revolving_balance,numeric,0.0987,No significant change,False,5.3
+annual_income,numeric,0.0756,No significant change,False,3.2
+loan_amount,numeric,0.0623,No significant change,False,2.1
+interest_rate,numeric,0.0512,No significant change,False,1.8
+num_delinquencies,numeric,0.0345,No significant change,False,4.5
