@@ -1,0 +1,16 @@
+feature,importance,importance_normalized,model
+grade_F,0.142,0.142,gradient_boosting
+grade_E,0.098,0.098,gradient_boosting
+interest_rate,0.087,0.087,gradient_boosting
+debt_to_income,0.076,0.076,gradient_boosting
+credit_utilization,0.068,0.068,gradient_boosting
+dti_x_utilization,0.054,0.054,gradient_boosting
+loan_to_income,0.052,0.052,gradient_boosting
+payment_to_income,0.048,0.048,gradient_boosting
+num_delinquencies,0.045,0.045,gradient_boosting
+has_delinquency,0.041,0.041,gradient_boosting
+revolving_balance,0.038,0.038,gradient_boosting
+num_inquiries_6m,0.035,0.035,gradient_boosting
+annual_income,0.032,0.032,gradient_boosting
+high_utilization,0.028,0.028,gradient_boosting
+very_high_dti,0.024,0.024,gradient_boosting

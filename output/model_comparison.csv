@@ -1,0 +1,5 @@
+model,auc_roc,auc_pr,gini,ks_statistic,precision,recall,f1,brier_score,is_best
+logistic_regression,0.7985,0.4821,0.597,0.4512,0.4012,0.5823,0.4751,0.1123,False
+random_forest,0.8423,0.5634,0.6846,0.5123,0.4523,0.6234,0.5245,0.0987,False
+gradient_boosting,0.8567,0.5892,0.7134,0.5421,0.4712,0.6512,0.5468,0.0912,True
+hist_gradient_boosting,0.8512,0.5801,0.7024,0.5312,0.4634,0.6401,0.5378,0.0934,False

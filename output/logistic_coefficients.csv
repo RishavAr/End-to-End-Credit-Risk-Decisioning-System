@@ -1,0 +1,14 @@
+feature,coefficient,odds_ratio,direction
+grade_G,1.823,6.19,Increases default risk
+grade_F,1.456,4.29,Increases default risk
+grade_E,1.123,3.07,Increases default risk
+num_delinquencies,0.342,1.41,Increases default risk
+debt_to_income,0.028,1.03,Increases default risk
+credit_utilization,0.019,1.02,Increases default risk
+interest_rate,0.087,1.09,Increases default risk
+has_delinquency,0.534,1.71,Increases default risk
+high_utilization,0.412,1.51,Increases default risk
+loan_to_income,0.234,1.26,Increases default risk
+annual_income,-4.5e-06,1.0,Decreases default risk
+months_employed,-0.0023,1.0,Decreases default risk
+stable_employment,-0.312,0.73,Decreases default risk

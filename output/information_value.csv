@@ -1,0 +1,6 @@
+feature,iv,interpretation
+grade,0.4823,Strong
+employment_status,0.1245,Medium
+home_ownership,0.0876,Weak
+loan_purpose,0.0534,Weak
+verification_status,0.0312,Weak

@@ -1,0 +1,2 @@
+mean,median,std,min,max,percentile_10,percentile_25,percentile_50,percentile_75,percentile_90,skewness,kurtosis
+667.4,672.0,82.3,348,823,558,612,672,724,768,-0.23,-0.45
